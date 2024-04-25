@@ -31,6 +31,9 @@ The dataset paper is available [here](https://arxiv.org/pdf/1812.01718.pdf), pro
 - **Parameters**: 214,803 independent parameters
 - **Accuracy**: 94%
 
+
+Characters "す" (su) and "は" (ha) share certain features, leading to misclassification. Understanding these shared features can guide future refinement of the models to better differentiate between them.
+
 ## Comparisons
 
 ### Accuracy
